@@ -1,0 +1,126 @@
+.container {
+	padding:1px;
+}
+
+header {
+	height: 40%;
+	width: 100%;
+}
+
+.logo {
+	padding-bottom: 10px;
+	padding-top: 20px;
+	padding-left: 40px;
+	width: 20%;
+}
+
+
+nav {
+	margin-left: 800px;
+	margin-top: -70px;
+}
+
+ul li {
+	display: inline;
+	font-size: 1em;
+	font-family: 'Raleway', sans-serif;
+	padding: 20px;
+
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+li a:hover {
+	font-weight: bold;
+	padding: 5px;
+}
+
+.fiesta {
+	width: 95%;
+	height: 40%;
+	margin-top: 40px;
+	margin-left: 30px;
+}
+
+
+h1 {
+	font-family: 'Cabin', sans-serif;
+	font-size: 2.5em;
+	text-align: center;
+	font-weight: 700;
+	padding: 30px;
+	color: #f17c5d;
+
+}
+
+p {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	margin-left: 300px;
+	margin-right: 300px;
+	color: #8c8c8c;
+}
+
+h2 {
+	font-family: 'Cabin', sans-serif;
+	font-size: 3em;
+	text-align: center;
+	font-weight: 700;
+	padding: 60px;
+
+}
+
+#boton1, #boton2, #boton3 {
+	background-color: white;
+    border: solid 2px #f17c5d;
+    color: #f17c5d;
+    padding: 20px 32px;
+    text-align: center;
+	font-family: 'Cabin', sans-serif;
+    display: inline-block;
+    font-size: 2em;
+    cursor: pointer;  
+    margin-left: 200px;
+	border-radius: 8px;
+
+	}
+
+#boton1, #boton2, #boton3:hover {
+	font-weight: bold;
+}
+
+#b1, #b2, #b3 {
+	display: inline-block;
+	text-align: center;
+	padding: 10px;
+}
+
+#tickets {
+	padding-bottom: 40px;
+}
+
+footer {
+	border-top: solid 1px #f17c5d;
+}
+
+h3 {
+	font-family: 'Cabin', sans-serif;
+	font-size: 1.5em;
+	text-align: center;
+	font-weight: 700;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#footer ul li {
+	font-size: 1em;
+	text-align: center;
+	height: -150px;
+	margin-left: 50px;
+
+}
+
+
